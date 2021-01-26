@@ -1,6 +1,6 @@
 # TodoApp-using-useReducer-hook
 
-- Todo List App made by react useReducer hook.
+- Todo List App made by using react useReducer hook.
 - Contains features:
   1. Add item
   2. delete item
